@@ -8,11 +8,9 @@ flow = InstalledAppFlow.from_client_secrets_file(
     scopes=SCOPES
 )
 
-# Run the console-based flow:
+# Run the console-based OAuth flow.
 credentials = flow.run_console(prompt='consent')
-
 print("Authentication successful!")
-
 
 
 
