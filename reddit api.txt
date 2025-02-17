@@ -1,0 +1,13 @@
+Social media bot
+Reddit 
+personal use script
+K_1fJbzehnbVGcFuMkK3bg
+
+0mM0jBT9LUWKcuMmBSVhnD62JPaazg secret 
+
+pexels api Your API Key
+YQtP5OUyixsuZeiaOUDi1l8ZQhwQgrW7WNgDBt6Gy0qpjoIHYV8QlokG
+
+1/certs","client_secret":"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","redirect_uris":["http://localhost"]}}  google api
+
+
